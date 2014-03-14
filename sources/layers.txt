@@ -26,4 +26,3 @@ meta-ros,git://github.com/bmwcarit/meta-ros.git,master,028d9ac86d1d1cb4222865bf7
 meta-dominion,git://github.com/koenkooi/meta-dominion.git,master,HEAD
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.5,HEAD
 meta-altera,ssh://gitolite@at-git/meta-altera,angstrom_v2013.12-yocto1.3,HEAD
-
