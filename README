@@ -14,8 +14,10 @@ To start a build of the kernel, source the environment file and do:
 	$ . ~/.oe/environment-angstromv2012.12
 	$ MACHINE=socfpga_cyclone5 bitbake linux-altera-ltsi
 
-    or
 
+To build the latest stable kernel, run the following:
+    $ export KERNEL_PROVIDER="linux-altera"
+    $ export BB_ENV_EXTRAWHITE="${BB_ENV_EXTRAWHITE} KERNEL_PROVIDER"
     $ MACHINE=socpfga_cyclone5 bitbake linux-altera
 
 To build the root file system:
