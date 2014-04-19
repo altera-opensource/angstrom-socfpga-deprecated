@@ -22,4 +22,4 @@ meta-minnow,git://git.yoctoproject.org/meta-minnow,danny,HEAD
 meta-allwinner,git://github.com/naguirre/meta-allwinner.git,danny,HEAD
 meta-ros,git://github.com/bmwcarit/meta-ros.git,master,7e2cd2c0952ee35e30c8e3f9dc57f277d58419b8
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.3,HEAD
-meta-altera,http://git.rocketboards.org/meta-altera,angstrom_v2012.12-yocto1.3,HEAD
+meta-altera,http://git.rocketboards.org/meta-altera,angstrom-v2012.12-yocto1.3,HEAD
