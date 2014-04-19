@@ -25,4 +25,4 @@ meta-qt5,git://github.com/meta-qt5/meta-qt5,dora,HEAD
 meta-ros,git://github.com/bmwcarit/meta-ros.git,master,028d9ac86d1d1cb4222865bf78038084c0a06dd1
 meta-dominion,git://github.com/koenkooi/meta-dominion.git,master,HEAD
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.5,HEAD
-meta-altera,http://git.rocketboards.org/meta-altera,angstrom_v2013.12-yocto1.3,HEAD
+meta-altera,http://git.rocketboards.org/meta-altera,angstrom-v2013.12-yocto1.5,HEAD
