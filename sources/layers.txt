@@ -30,3 +30,5 @@ meta-qt5,git://github.com/meta-qt5/meta-qt5,master,1fa7f364f682e5cfaa9d6e565b7ae
 meta-uav,git://github.com/koenkooi/meta-uav.git,master,4ef32fa19ced70e4977df6010a911884376d04bc
 meta-telephony,http://git.gitorious.org/sysmocom-openembedded/meta-telephony.git,master,f71f5ea031d96a5a84bde4531974542ae49f8bee
 openembedded-core,git://github.com/openembedded/oe-core.git,daisy,HEAD
+meta-altera,git://git.rocketboards.org/meta-altera,angstrom-v2014.06-yocto1.6,HEAD
+
