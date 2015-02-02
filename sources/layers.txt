@@ -25,4 +25,4 @@ meta-qt5,git://github.com/meta-qt5/meta-qt5,dora,5b5616b63bdf163ea3eb2ca8857c56a
 meta-ros,git://github.com/bmwcarit/meta-ros.git,master,028d9ac86d1d1cb4222865bf78038084c0a06dd1
 meta-dominion,git://github.com/koenkooi/meta-dominion.git,master,84c26a4cb3aab9c8eaf2041ac57d01ff547400fc
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.5,24eaa39a2e25d9ec45ae1eac43485aa91b8c67e0
-meta-altera,git://git.rocketboards.org/meta-altera,angstrom-v2013.12-socfpga_gsrd14.1,ACDS14.1_REL_GSRD_PR_UPDATE1
+meta-altera,git://git.rocketboards.org/meta-altera,angstrom-v2013.12-yocto1.5_gsrd14.1,ACDS14.1_REL_GSRD_PR_UPDATE1
