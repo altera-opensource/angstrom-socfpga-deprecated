@@ -33,3 +33,4 @@ meta-telephony,git://github.com/koenkooi/meta-telephony,master,65238f85305f31794
 meta-qualcomm,http://git.linaro.org/people/nicolas.dechesne/meta-qualcomm.git,master,1c876ee4dc5cb66d26d960f5b58c958ada2452a1
 meta-altera,https://github.com/altera-opensource/meta-altera.git,angstrom-v2014.12-yocto1.7,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,dizzy,HEAD
+meta-altera-refdes,https://github.com/meta-altera-refdes,gsrd14.1,HEAD
