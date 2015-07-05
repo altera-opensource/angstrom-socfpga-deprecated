@@ -5,14 +5,14 @@ This is the Angstrom Distribution v2014.12 release.
 
 To configure the scripts and download the build metadata, do:
 
-	$ MACHINE=beagleboard ./oebb.sh config beagleboard
+	$ MACHINE=cyclone5 ./oebb.sh config cyclone5
 
-You can change the 'beagleboard' in the commandline above into the machine you are targeting.
+You can change the 'cyclone5' in the commandline above into arria5 or arria10.
 
 To start a build of the kernel, source the environment file and do:
 
-	$ . environment-angstrom
-	$ MACHINE=beagleboard bitbake virtual/kernel
+	$ . environment-angstrom-v2014.12
+	$ MACHINE=cyclone5 bitbake virtual/kernel
 
 For an example workflow for dealing with kernels please read http://www.slimlogic.co.uk/2011/05/openembeddedangstrom-kernel-workflow/
 
