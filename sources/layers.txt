@@ -31,6 +31,6 @@ meta-uav,git://github.com/koenkooi/meta-uav.git,master,edf32a392b55a4267e6b07277
 meta-photography,git://github.com/koenkooi/meta-photography.git,master,060028912759325f26f3ce88e9c6bfc66d413517
 meta-telephony,git://github.com/koenkooi/meta-telephony,master,65238f85305f3179491e5e4be8152ea35454ac84
 meta-qualcomm,http://git.linaro.org/people/nicolas.dechesne/meta-qualcomm.git,master,1c876ee4dc5cb66d26d960f5b58c958ada2452a1
-meta-altera,https://github.com/altera-opensource/meta-altera.git,angstrom-v2014.12-yocto1.7_gsrd15.1,889cfa0f2a241010b0d4425ccb9bf1bc0bcdbccc
 meta-altera-refdes,https://github.com/altera-opensource/meta-altera-refdes,gsrd-15.1,e076db12a0eb3e309efe75163648313131e55ce5
+meta-altera,https://github.com/altera-opensource/meta-altera.git,angstrom-v2014.12-yocto1.7,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,dizzy,HEAD
